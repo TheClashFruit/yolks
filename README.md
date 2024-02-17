@@ -1,3 +1,5 @@
+> This repository has an addition to the `rust_latest` image, adding 2 packages to install, `pkg-config` and `libssl-dev`.
+
 # Yolks
 
 A curated collection of core images that can be used with Pterodactyl's Egg system. Each image is rebuilt
